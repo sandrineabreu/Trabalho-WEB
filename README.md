@@ -1,8 +1,8 @@
 **Projetos em HTML**
 
-# 🚀 Meus 7 Projetos Incríveis
+# 🚀 Meus Projetos Incríveis
 
-Bem-vindo ao meu repositório! Aqui você encontrará uma coleção de 7 projetos que eu desenvolvi com muito carinho. Cada projeto é uma oportunidade de aprender e crescer. 🌱
+Bem-vindo ao meu repositório! Aqui você encontrará uma coleção de projetos que eu desenvolvi com muito carinho. Cada projeto é uma oportunidade de aprender e crescer. 🌱
 
 
 [Projeto1](https://sandrineabreu.github.io/Projeto1/)
